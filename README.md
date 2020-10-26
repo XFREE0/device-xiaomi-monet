@@ -1,3 +1,5 @@
+***IT'S ONLY FOR TESTING, IT DOESN'T BOOT AFTER BUILDING***
+
 Device configuration for Xiaomi Mi 10 Lite 5G
 ============================================
 
