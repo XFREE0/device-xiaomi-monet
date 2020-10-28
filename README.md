@@ -3,7 +3,7 @@
 Device configuration for Xiaomi Mi 10 Lite 5G
 ============================================
 
-The Xiaomi Mi 10 Lite 5G (codenamed _"monet"_) is a mid range smartphone from Xiaomi's sub-brand xiaomi.
+The Xiaomi Mi 10 Lite 5G (codenamed _"monet"_) is a mid range smartphone from Xiaomi.
 
 ## Device specifications
 
